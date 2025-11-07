@@ -1,4 +1,4 @@
-Data Analytics Project — End-to-End Data Insights
+# Data Analytics Project — End-to-End Data Insights
 📌 Overview
 
 This project demonstrates a complete data analytics workflow, starting from data loading and exploration in Python to dashboard creation and business insights presentation.
@@ -13,7 +13,7 @@ Key attributes include (list a few key columns — e.g., customer_id, purchase_a
 
 Size: (e.g., ~10,000 rows and 12 columns)
 Steps Followed
-1. Data Loading and Cleaning (Python)
+# 1. Data Loading and Cleaning (Python)
 
 Imported dataset using Pandas.
 
@@ -21,7 +21,7 @@ Checked for null values, duplicates, and inconsistent data types.
 
 Performed data cleaning: handling missing values, formatting columns, and removing outliers.
 
-2. Exploratory Data Analysis (EDA)
+# 2. Exploratory Data Analysis (EDA)
 
 Generated summary statistics and data distributions.
 
@@ -29,7 +29,7 @@ Visualized relationships and patterns using bar charts, heatmaps, and histograms
 
 Identified key trends and anomalies for deeper analysis.
 
-3. SQL Integration
+# 3. SQL Integration
 
 Imported the cleaned dataset into MySQL/PostgreSQL/SQL Server.
 
@@ -43,7 +43,7 @@ Monthly or yearly sales trend
 
 Customer retention or churn analysis
 
-4. Power BI Dashboard
+# 4. Power BI Dashboard
 
 Connected SQL database to Power BI.
 
@@ -51,7 +51,7 @@ Built interactive visual dashboards showing key metrics, KPIs, and insights.
 
 Added filters, slicers, and drill-through functionalities for better interactivity.
 
-5. Final Report & Presentation (Gamma)
+# 5. Final Report & Presentation (Gamma)
 
 Summarized insights and visualizations into a professional Gamma presentation.
 Dashboard Highlights
